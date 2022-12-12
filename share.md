@@ -23,6 +23,12 @@
 - 周正一
 - 文章讲述了通过hook的方式对应用中加载图片中的超标图片(大小,尺寸)进行检查提示.实际操作性非常高.
 
+## 【Compose】Desktop Application 初尝试
+
+- https://blog.csdn.net/lucky_tom/article/details/128036111?spm=1001.2014.3001.5501
+- 苏老泉-西安-性能
+- 文章主要分享了Jetpack中的Compose组件,可以轻松跨平台的方案,对于流程的配置介绍相对比较详细,深度不够,是个很不错的入门配置文章.
+
 
 # frameworks
 
@@ -44,7 +50,7 @@
 - 一只蓝鲸-合肥-app
 - 文章简单的介绍了常见的垃圾回收算法,然后用源码中`Light Pointer`的关键部分介绍了`sp`的实现过程.
 
-# Linux
+# Android编译
 
 ## SeLinux & 自启动-实战
 
@@ -67,5 +73,11 @@
 - 基于kernel4.9.版本讲述loadavg的数据产生和输出过程.内含大量源代码
 
 
+## 【性能优化】大厂OOM优化和监控方案
 
+- https://juejin.cn/post/7074762489736478757?share_token=185c2f00-7e09-494c-bfa5-1eb239b58073
+- Ray-成都-应用
+- 属于集合类的一个文章,问中将常见的监控和优化方案都有大致的说明,非常好的方向性文章.
+
+https://blog.csdn.net/lucky_tom/article/details/128036111?spm=1001.2014.3001.5501
 
