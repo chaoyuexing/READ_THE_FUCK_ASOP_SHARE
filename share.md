@@ -4,7 +4,7 @@
 
 - https://juejin.cn/post/7169790724304633893?share_token=9b247f82-3fb7-4030-84b1-dc24c7d14743
 - 分享人:CV战士
-- 主要介绍Android studio的常用插件,实际操作性比较强,一些插件的下载不同主要墙或版本
+- 主要介绍Android studio的常用插件,实际操作性比较强,一些插件的下载不同主要原因在与`墙`或`版本`
 
 ## git实用技巧
 
@@ -21,13 +21,13 @@
 
 - https://juejin.cn/post/6844904136266219534?share_token=57c23501-90c4-4751-b37a-d217ea8d5b92
 - 周正一
-- 文章讲述了通过hook的方式对应用中加载图片中的超标图片(大小,尺寸)进行检查提示.实际操作性非常高.
+- 文章讲述了通过`hook`的方式对应用中加载图片中的超标图片(大小,尺寸)进行检查提示.实际操作性非常高.
 
 ## 【Compose】Desktop Application 初尝试
 
 - https://blog.csdn.net/lucky_tom/article/details/128036111?spm=1001.2014.3001.5501
 - 苏老泉-西安-性能
-- 文章主要分享了Jetpack中的Compose组件,可以轻松跨平台的方案,对于流程的配置介绍相对比较详细,深度不够,是个很不错的入门配置文章.
+- 文章主要分享了`Jetpack`中的`Compose`组件,可以轻松跨平台的方案,对于流程的配置介绍相对比较详细,深度不够,是个很不错的入门配置文章.
 
 
 # frameworks
@@ -36,7 +36,7 @@
 
 - https://blog.csdn.net/m0_62167422/article/details/122386024
 - 疙瘩徐-深圳-图形
-- 文章承前启后，分析了ServiceManager逻辑在版本迭代中的变迁，有助于加深对 Binder 机制和 AIDL 的理解
+- 文章承前启后，分析了`ServiceManager`逻辑在版本迭代中的变迁，有助于加深对`Binder`机制和` AIDL `的理解
 
 ## Android ANR深入分析
 
@@ -79,5 +79,5 @@
 - Ray-成都-应用
 - 属于集合类的一个文章,问中将常见的监控和优化方案都有大致的说明,非常好的方向性文章.
 
-https://blog.csdn.net/lucky_tom/article/details/128036111?spm=1001.2014.3001.5501
+
 
